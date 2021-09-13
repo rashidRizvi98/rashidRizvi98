@@ -2,9 +2,9 @@
 
 <!--
 [![Rashid's github stats](https://github-readme-stats.vercel.app/api?username=rashidRizvi98)](https://github.com/rashidRizvi98/github-readme-stats)
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidRizvi98&layout=compact)](https://github.com/rashidRizvi98/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidRizvi98&layout=compact)](https://github.com/rashidRizvi98/github-readme-stats)
+-->
 <!--
 **rashidRizvi98/rashidRizvi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
