@@ -1,7 +1,7 @@
 ### Hi there, I'm Rashid 👋
-
+<!--
 - 🔭 I’m currently working on my Next js ,.Net Core application
-
+-->
 <!--
 [![Rashid's github stats](https://github-readme-stats.vercel.app/api?username=rashidRizvi98)](https://github.com/rashidRizvi98/github-readme-stats)
 
